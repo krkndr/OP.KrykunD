@@ -1,0 +1,5 @@
+﻿  main.cpp
+  myfile.cpp
+D:\laba1OP\laba1OP\myfile.cpp(226,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\laba1OP\laba1OP\myfile.cpp(287,9): warning C4101: n_line: неиспользованная локальная переменная
+  laba1OP.vcxproj -> D:\laba1OP\x64\Debug\laba1OP.exe
