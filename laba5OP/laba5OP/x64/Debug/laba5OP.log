@@ -1,0 +1,10 @@
+﻿  TintNumber.cpp
+D:\laba5OP\laba5OP\TintNumber.cpp(12,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\laba5OP\laba5OP\TintNumber.cpp(35,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\laba5OP\laba5OP\TintNumber.cpp(60,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\laba5OP\laba5OP\TintNumber.cpp(62,26): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\laba5OP\laba5OP\TintNumber.cpp(74,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\laba5OP\laba5OP\TintNumber.cpp(98,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  Создание кода...
+  laba5OP.vcxproj -> D:\laba5OP\x64\Debug\laba5OP.exe
