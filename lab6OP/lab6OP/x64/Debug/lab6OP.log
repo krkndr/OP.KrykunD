@@ -1,0 +1,15 @@
+﻿  struct.cpp
+D:\lab6OP\lab6OP\struct.cpp(83,15): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\lab6OP\lab6OP\struct.cpp(82): message : во время компиляции функции-члена класс шаблон "void MyArray<int>::insert(const MyArray<int>::Iterator &,const T &)"
+          with
+          [
+              T=int
+          ]
+D:\lab6OP\lab6OP\struct.cpp(178): message : выполняется компиляция ссылки на экземпляр шаблон функции "void MyArray<int>::insert(const MyArray<int>::Iterator &,const T &)"
+          with
+          [
+              T=int
+          ]
+D:\lab6OP\lab6OP\struct.cpp(201): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "MyArray<int>"
+D:\lab6OP\lab6OP\struct.cpp(190): message : выполняется компиляция ссылки на экземпляр шаблон функции "void testMyArray<int>(void)"
+  lab6OP.vcxproj -> D:\lab6OP\x64\Debug\lab6OP.exe
