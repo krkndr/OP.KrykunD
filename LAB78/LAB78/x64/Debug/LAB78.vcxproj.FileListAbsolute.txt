@@ -1,0 +1,4 @@
+D:\LAB78\LAB78\x64\Debug\LAB78.vcxproj.AssemblyReference.cache
+D:\LAB78\LAB78\x64\Debug\LAB78.vcxproj.SuggestedBindingRedirects.cache
+D:\LAB78\LAB78\x64\Debug\LAB78.MyForm.resources
+D:\LAB78\LAB78\x64\Debug\LAB78.vcxproj.GenerateResource.cache
